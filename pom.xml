@@ -47,8 +47,8 @@
       <scope>test</scope>
     </dependency>
 
-
   </dependencies>
+
   <build>
     <finalName>accout-email</finalName>
     <plugins>

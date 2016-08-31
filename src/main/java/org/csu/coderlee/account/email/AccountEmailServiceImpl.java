@@ -11,6 +11,7 @@ import javax.mail.internet.MimeMessage;
  */
 public class AccountEmailServiceImpl implements AccountEmailService {
 
+    //这两个参数的值通过springframework注入
     private JavaMailSender javaMailSender;
 
     private String systemEmail;
